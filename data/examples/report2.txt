@@ -1,0 +1,8 @@
+Patient ID: P002
+Age: 42
+
+Routine follow-up visit.
+Patient reports no new symptoms.
+Recent labs show values within normal limits.
+
+Plan: continue current management, annual review.
