@@ -1,0 +1,9 @@
+Patient ID: P001
+Age: 56
+
+The patient presents with fatigue and mild shortness of breath.
+Hemoglobin 10.2 g/dL noted on recent labs.
+Creatinine 1.0 mg/dL.
+
+Impression: anemia of unclear cause, further workup recommended.
+Follow-up in clinic in 1–2 weeks.
