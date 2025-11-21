@@ -1,0 +1,4 @@
+id,patient_id,report_text,expected_priority
+1,P001,"Hemoglobin 10.2 g/dL with fatigue and mild shortness of breath.",Medium
+2,P002,"Routine follow-up, labs within normal limits, patient asymptomatic.",Low
+3,P003,"Acute chest pain reported, abnormal ECG changes noted.",High
